@@ -1,0 +1,527 @@
+
+{
+    "id": "pcpc.map-qr8fr1li",
+    "type": "FeatureCollection",
+    "features": [  
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8024340,32.8196836]
+            },
+            "properties": {
+                "id": "211",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Cates (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Oak Lawn Ave and Wycliff Ave<br/>Schedule: Wednesdays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=211' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8245275,32.8338540]
+            },
+            "properties": {
+                "id": "226",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Roberts (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Bordeaux Ave and Atwell St<br/>Schedule: Thursdays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=226' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7949295,32.8472828]
+            },
+            "properties": {
+                "id": "185",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Bateman (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Golf Dr and Rosedale Ave<br/>Schedule: Mondays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=185' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7389190,32.8517370]
+            },
+            "properties": {
+                "id": "186",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Bullock (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Haverford Rd and Trammel Dr<br/>Schedule: Mondays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=186' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7982713,32.8323419]
+            },
+            "properties": {
+                "id": "212",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Rowling (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Beverly Dr and Fairfield Ave<br/>Schedule: <br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=212' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8052654,32.8636213]
+            },
+            "properties": {
+                "id": "187",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Ridley (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Luther Ln and Kate St<br/>Schedule: Flying Fish restaurant.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=187' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8043894,32.8365923]
+            },
+            "properties": {
+                "id": "213",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Nixon (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Preston Rd and Mockingbird Ln<br/>Schedule: Meets 1x/month.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=213' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7517831,32.8417765]
+            },
+            "properties": {
+                "id": "184",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Jarrett (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Lange Cir and Springside Ln<br/>Schedule: 2nd/4th Mondays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=184' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7753530,32.8380360]
+            },
+            "properties": {
+                "id": "173",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#5c93c5",
+                "title": "Goebel/M.Newman (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: East Mockingbird Lane & N. Central Expy, Dallas, TX 75206<br/>Schedule: EO Wednesday pm.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7607020,32.9556380]
+            },
+            "properties": {
+                "id": "202",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#5c93c5",
+                "title": "Holm (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Laurel Ln and Mimosa Dr<br/>Schedule: <br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8115238,32.8397324]
+            },
+            "properties": {
+                "id": "218",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Malone (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Normandy Ave and Armstrong Pkwy<br/>Schedule: Sundays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=218' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8024340,32.8196836]
+            },
+            "properties": {
+                "id": "200",
+                "marker-symbol": "circle",
+                "marker-color": "#5c93c5",
+                "title": "Floyd (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Oak Lawn Ave and Wycliff Ave<br/>Schedule: Wednesdays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=200' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8153452,32.8531893]
+            },
+            "properties": {
+                "id": "183",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#5c93c5",
+                "title": "Longino (Men's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Stanford Ave and Devonshire Dr<br/>Schedule: Wednesday mornings.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8191706,32.8313271]
+            },
+            "properties": {
+                "id": "191",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#dc8667",
+                "title": "Barber (Women's)",
+                "description": "<div class='marker-custom-desc'><p>Location: N Versailles Ave and Westside Dr<br/>Schedule: EO Wednesday.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7613202,32.8383325]
+            },
+            "properties": {
+                "id": "208",
+                "marker-symbol": "circle",
+                "marker-color": "#dc8667",
+                "title": "Ratliff (Women's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Ravendale Ln and Skillman St<br/>Schedule: Third Thursday pm.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=208' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7927660,32.8472692]
+            },
+            "properties": {
+                "id": "192",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#dc8667",
+                "title": "Roberts (Women's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Rosedale Ave and Thackery St<br/>Schedule: Wednesday pm.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8221436,32.9107183]
+            },
+            "properties": {
+                "id": "207",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#dc8667",
+                "title": "Shaw (Women's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Allencrest Ln and Nashwood Ln<br/>Schedule: Tuesdays.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7927268,32.8559759]
+            },
+            "properties": {
+                "id": "188",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#dc8667",
+                "title": "Bullock (Women's)",
+                "description": "<div class='marker-custom-desc'><p>Location: Bryn Mawr Dr and Thackery St<br/>Schedule: EO Monday.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8252680,32.8522315]
+            },
+            "properties": {
+                "id": "210",
+                "marker-symbol": "circle",
+                "marker-color": "#77c95e",
+                "title": "Michelson (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: W Amherst Ave and Briarwood Ln<br/>Schedule: <br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=210' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8129869,32.8415864]
+            },
+            "properties": {
+                "id": "241",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Haberkon/Reichert (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Stanhope St and Lomo Alto Dr<br/>Schedule: Meet 1x/month for dinner and prayer.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8044223,32.8312746]
+            },
+            "properties": {
+                "id": "199",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Denman (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Versailles Ave and Preston Rd<br/>Schedule: Monday evenings<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8269844,32.9935054]
+            },
+            "properties": {
+                "id": "205",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Lamberth (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Bellerive Dr and Spyglass Dr<br/>Schedule: 2nd Tuesdays<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7752263,32.8499175]
+            },
+            "properties": {
+                "id": "182",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Newman (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Westminster Ave and Cleburne St<br/>Schedule: Wednesdays.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8096679,32.8291131]
+            },
+            "properties": {
+                "id": "193",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Pogoloff (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Lorraine Ave and Armstrong Pkwy<br/>Schedule: Thursday nights<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7960045,32.8613620]
+            },
+            "properties": {
+                "id": "195",
+                "marker-symbol": "circle",
+                "marker-color": "#77c95e",
+                "title": "Rohrman (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Marquette St and Baltimore Dr<br/>Schedule: Rotates among group member homes.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=195' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8147099,32.8212380]
+            },
+            "properties": {
+                "id": "196",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Meek (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Lomo Alto Dr and Bowser Ave<br/>Schedule: Monday nights.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7947673,32.9115928]
+            },
+            "properties": {
+                "id": "176",
+                "marker-symbol": "circle",
+                "marker-color": "#77c95e",
+                "title": "Hanson (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Greenwich Ln and Whitman Ln<br/>Schedule: Every other Sunday<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=176' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7909738,32.8355320]
+            },
+            "properties": {
+                "id": "177",
+                "marker-symbol": "circle",
+                "marker-color": "#77c95e",
+                "title": "Payne (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Drexel Dr and Byron Ave<br/>Schedule: every other Wed pm.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=177' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7195522,32.8690366]
+            },
+            "properties": {
+                "id": "175",
+                "marker-symbol": "circle",
+                "marker-color": "#77c95e",
+                "title": "Fulmer (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Lanshire Dr and Chiswell Rd<br/>Schedule: every other Sunday pm<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=175' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.6888995,32.8685952]
+            },
+            "properties": {
+                "id": "201",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Gibson (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Cactus Ln and Flicker Ln<br/>Schedule: 3rd Sundays, various locations in Lake Highlands<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8018360,32.8622596]
+            },
+            "properties": {
+                "id": "198",
+                "marker-symbol": "circle",
+                "marker-color": "#77c95e",
+                "title": "Turpin (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Centenary Ave and Pickwick Ln<br/>Schedule: 2nd and 4th Tuesday pm.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=198' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8139596,32.8709443]
+            },
+            "properties": {
+                "id": "178",
+                "marker-symbol": "circle",
+                "marker-color": "#77c95e",
+                "title": "Williams (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Hollow Way Rd and Deloache Ave<br/>Schedule: Every other Monday night.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=178' target='_blank'>Register for this Group</a></p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8072974,32.8432546]
+            },
+            "properties": {
+                "id": "174",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Bogart/McCamey (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Larchmont St and Douglas Avenue<br/>Schedule: every other Sunday pm<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.8165129,32.8483213]
+            },
+            "properties": {
+                "id": "197",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Meyer (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Druid Ln and E Greenway Blvd<br/>Schedule: EO Thursday night.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7518980,32.8491870]
+            },
+            "properties": {
+                "id": "179",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Sayles/Hawkins (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Dunstan Lane and Highgate Ln<br/>Schedule: Thursdays.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7171510,32.8896400]
+            },
+            "properties": {
+                "id": "194",
+                "marker-symbol": "circle-stroked",
+                "marker-color": "#77c95e",
+                "title": "Richards (Couples)",
+                "description": "<div class='marker-custom-desc'><p>Location: Edgecove Dr and Faircrest Dr<br/>Schedule: 2nd and 4th Thursday nights.<br/>Status: Full</p></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.7873623,32.7923341]
+            },
+            "properties": {
+                "id": "228",
+                "marker-symbol": "circle",
+                "marker-color": "#dcbd67",
+                "title": "Deboer (Mixed)",
+                "description": "<div class='marker-custom-desc'><p>Location: Birkenhead Ct and Bryan St<br/>Schedule: First meeting 9.29.13<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=228' target='_blank'>Register for this Group</a></p></div>"
+            }
+        }
+    ]
+}
+    
