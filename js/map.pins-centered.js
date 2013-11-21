@@ -13,10 +13,13 @@ var map = L.mapbox.map('map', 'pcpc.map-qr8fr1li').setView([32.81942355912533,-9
 var jsonPinsURL = 'test.geojson';
 
 // Load Path
-map.markerLayer.loadURL(jsonPinsURL);
+var markerLayer = L.mapbox.markerLayer()
+	.loadURL(jsonPinsURL)
+	.addTo(map);
+
 
 // Center Pins on Click
-map.markerLayer.on('click', function(e) {
+markerLayer.on('click', function(e) {
     map.panTo(e.layer.getLatLng());
 });
 
