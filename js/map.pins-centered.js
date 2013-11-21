@@ -3,32 +3,27 @@
 // *
 
 
-// Initiate Map and GeoCode Centering
-var geocoder = L.mapbox.geocoder('pcpc.map-qr8fr1li'),
-  map = L.mapbox.map('map', 'pcpc.map-qr8fr1li')
-  geocoder.query('Dallas, TX', showMap);
+// Set Map ID+View
+var map = L.mapbox.map('map', 'pcpc.map-qr8fr1li').setView([32.81942355912533,-96.8020337820053], 9);
 
-// Center Map Bounds
-function showMap(err, data) {
-     map.fitBounds(data.lbounds);
-}
+// Path to GeoJSON Pins
+var jsonPinsURL = 'test.geojson';
 
-// Pan Map with Clicks
-map.markerLayer.on('click', function(e) {
-        map.panTo(e.layer.getLatLng());
+// Load Path
+map.markerLayer.loadURL(jsonPinsURL);
+
+// Show Popups on hover (optional)
+map.markerLayer.on('mouseover', function(e) {
+    e.layer.openPopup();
+});
+map.markerLayer.on('mouseout', function(e) {
+    e.layer.closePopup();
 });
 
-// if this map supports auto-scaling, `detectRetina` will automatically
-// use scaled tiles when retina is detected.
-var layer = L.mapbox.tileLayer('pcpc.map-qr8fr1li', {
-    detectRetina: true,
-})
+// Center Pins on Click
+map.markerLayer.on('click', function(e) {
+    map.panTo(e.layer.getLatLng());
+});
 
-// Add Data - As with any other AJAX request, this technique is subject to the Same Origin Policy:
-// http://en.wikipedia.org/wiki/Same_origin_policy
-// So the CSV file must be on the same domain as the Javascript, or the server
-// delivering it should support CORS.
-var markerLayer = L.mapbox.markerLayer()
-  .loadURL('test.geojson')
-  .addTo(map);
+
 
