@@ -1,8 +1,9 @@
+
 {
     "id": "pcpc.map-qr8fr1li",
     "type": "FeatureCollection",
-    "features": [
-
+    "features": [  
+        
         {
             "type": "Feature",
             "geometry": {
@@ -14,7 +15,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#5c93c5",
                 "title": "Cates (Men's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Oak Lawn Ave and Wycliff Ave<br/>Schedule: Wednesdays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=211' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Oak Lawn Ave and Wycliff Ave<br/>Schedule: Wednesdays.<br/>Studying: Titus<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=211' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -42,7 +43,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#5c93c5",
                 "title": "Bateman (Men's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Golf Dr and Rosedale Ave<br/>Schedule: Mondays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=185' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Golf Dr and Rosedale Ave<br/>Schedule: Mondays.<br/>Studying: 1 John<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=185' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -56,7 +57,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#5c93c5",
                 "title": "Bullock (Men's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Haverford Rd and Trammel Dr<br/>Schedule: Mondays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=186' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Haverford Rd and Trammel Dr<br/>Schedule: Mondays.<br/>Studying: A Study through the Old Testament<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=186' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -84,7 +85,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#5c93c5",
                 "title": "Ridley (Men's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Luther Ln and Kate St<br/>Schedule: Flying Fish restaurant.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=187' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Luther Ln and Kate St<br/>Schedule: Flying Fish restaurant.<br/>Studying: *King's Cross* by Tim Keller<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=187' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -98,7 +99,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#5c93c5",
                 "title": "Nixon (Men's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Preston Rd and Mockingbird Ln<br/>Schedule: Meets 1x/month.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=213' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Preston Rd and Mockingbird Ln<br/>Schedule: Meets once per month.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=213' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -126,7 +127,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#5c93c5",
                 "title": "Goebel/M.Newman (Men's)",
-                "description": "<div class='marker-custom-desc'><p>Location: East Mockingbird Lane & N. Central Expy, Dallas, TX 75206<br/>Schedule: EO Wednesday pm.<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: East Mockingbird Lane & N. Central Expy, Dallas, TX 75206<br/>Schedule: Every other Wednesday (meets at Trinity Hall in Mockingbird Station)<br/>Studying: *The Reason for God* by Tim Keller.<br/>Status: Full</p></div>"
             }
         },
         {
@@ -168,7 +169,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#5c93c5",
                 "title": "Floyd (Men's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Oak Lawn Ave and Wycliff Ave<br/>Schedule: Wednesdays.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=200' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Oak Lawn Ave and Wycliff Ave<br/>Schedule: Wednesday mornings in Room 262<br/>Studying: *The Meaning of Marriage* by Tim and Kathy Keller<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=200' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -196,7 +197,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#dc8667",
                 "title": "Barber (Women's)",
-                "description": "<div class='marker-custom-desc'><p>Location: N Versailles Ave and Westside Dr<br/>Schedule: EO Wednesday.<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: N Versailles Ave and Westside Dr<br/>Schedule: Meets every other Wednesday evening.<br/>Status: Full</p></div>"
             }
         },
         {
@@ -210,7 +211,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#dc8667",
                 "title": "Ratliff (Women's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Ravendale Ln and Skillman St<br/>Schedule: Third Thursday pm.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=208' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Ravendale Ln and Skillman St<br/>Schedule: Meets Third Thursday evenings.<br/>Studying: Romans.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=208' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -224,7 +225,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#dc8667",
                 "title": "Roberts (Women's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Rosedale Ave and Thackery St<br/>Schedule: Wednesday pm.<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Rosedale Ave and Thackery St<br/>Schedule: Meets Wednesday evenings.<br/>Studying: *Lies Women Believe*<br/>Status: Full</p></div>"
             }
         },
         {
@@ -252,7 +253,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#dc8667",
                 "title": "Bullock (Women's)",
-                "description": "<div class='marker-custom-desc'><p>Location: Bryn Mawr Dr and Thackery St<br/>Schedule: EO Monday.<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Bryn Mawr Dr and Thackery St<br/>Schedule: Meets every other Monday.<br/>Studying: 1 John.<br/>Status: Full</p></div>"
             }
         },
         {
@@ -279,7 +280,7 @@
                 "id": "241",
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
-                "title": "Haberkon/Reichert (Couples)",
+                "title": "Haberkorn/Reichert (Couples)",
                 "description": "<div class='marker-custom-desc'><p>Location: Stanhope St and Lomo Alto Dr<br/>Schedule: Meet 1x/month for dinner and prayer.<br/>Status: Full</p></div>"
             }
         },
@@ -294,7 +295,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
                 "title": "Denman (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Versailles Ave and Preston Rd<br/>Schedule: Monday evenings<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Versailles Ave and Preston Rd<br/>Schedule: Monday evenings<br/>Studying: Isaiah<br/>Status: Full</p></div>"
             }
         },
         {
@@ -308,7 +309,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
                 "title": "Lamberth (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Bellerive Dr and Spyglass Dr<br/>Schedule: 2nd Tuesdays<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Bellerive Dr and Spyglass Dr<br/>Schedule: 2nd Tuesdays<br/>Studying: *Marriage Matters*<br/>Status: Full</p></div>"
             }
         },
         {
@@ -336,7 +337,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
                 "title": "Pogoloff (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Lorraine Ave and Armstrong Pkwy<br/>Schedule: Thursday nights<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Lorraine Ave and Armstrong Pkwy<br/>Schedule: Thursday nights<br/>Studying: *Crazy Love* by Francis Chan.<br/>Status: Full</p></div>"
             }
         },
         {
@@ -350,7 +351,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#77c95e",
                 "title": "Rohrman (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Marquette St and Baltimore Dr<br/>Schedule: Rotates among group member homes.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=195' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Marquette St and Baltimore Dr<br/>Schedule: Rotates among group member homes.<br/>Studying: Dan Allender's series on Marriage.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=195' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -364,7 +365,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
                 "title": "Meek (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Lomo Alto Dr and Bowser Ave<br/>Schedule: Monday nights.<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Lomo Alto Dr and Bowser Ave<br/>Schedule: Monday nights.<br/>Studying: Sermon series, discussing prior sermon<br/>Status: Full</p></div>"
             }
         },
         {
@@ -392,7 +393,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#77c95e",
                 "title": "Payne (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Drexel Dr and Byron Ave<br/>Schedule: every other Wed pm.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=177' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Drexel Dr and Byron Ave<br/>Schedule: Every other Wednesday<br/>Studying: *The Meaning of Marriage* by Tim and Kathy Keller<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=177' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -406,7 +407,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#77c95e",
                 "title": "Fulmer (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Lanshire Dr and Chiswell Rd<br/>Schedule: every other Sunday pm<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=175' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Lanshire Dr and Chiswell Rd<br/>Schedule: every other Sunday pm<br/>Studying: Prayer<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=175' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -434,7 +435,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#77c95e",
                 "title": "Turpin (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Centenary Ave and Pickwick Ln<br/>Schedule: 2nd and 4th Tuesday pm.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=198' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Centenary Ave and Pickwick Ln<br/>Schedule: 2nd and 4th Tuesday pm.<br/>Studying: *The Meaning of Marriage* by Tim and Kathy Keller<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=198' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -448,7 +449,7 @@
                 "marker-symbol": "circle",
                 "marker-color": "#77c95e",
                 "title": "Williams (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Hollow Way Rd and Deloache Ave<br/>Schedule: Every other Monday night.<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=178' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Hollow Way Rd and Deloache Ave<br/>Schedule: Every other Monday night.<br/>Studying: *The Meaning of Marriage* by Tim and Kathy Keller<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=178' target='_blank'>Register for this Group</a></p></div>"
             }
         },
         {
@@ -462,7 +463,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
                 "title": "Bogart/McCamey (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Larchmont St and Douglas Avenue<br/>Schedule: every other Sunday pm<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Larchmont St and Douglas Avenue<br/>Schedule: Every other Sunday<br/>Studying: Galatians<br/>Status: Full</p></div>"
             }
         },
         {
@@ -476,7 +477,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
                 "title": "Meyer (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Druid Ln and E Greenway Blvd<br/>Schedule: EO Thursday night.<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Druid Ln and E Greenway Blvd<br/>Schedule: Every other Thursday evening<br/>Studying: Galatians w/ Redeemer Study Guide<br/>Status: Full</p></div>"
             }
         },
         {
@@ -490,7 +491,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
                 "title": "Sayles/Hawkins (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Dunstan Lane and Highgate Ln<br/>Schedule: Thursdays.<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Dunstan Lane and Highgate Ln<br/>Schedule: Thursdays.<br/>Studying: "Loving the Way Jesus Loves" by Philip Ryken.<br/>Status: Full</p></div>"
             }
         },
         {
@@ -504,7 +505,7 @@
                 "marker-symbol": "circle-stroked",
                 "marker-color": "#77c95e",
                 "title": "Richards (Couples)",
-                "description": "<div class='marker-custom-desc'><p>Location: Edgecove Dr and Faircrest Dr<br/>Schedule: 2nd and 4th Thursday nights.<br/>Status: Full</p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Edgecove Dr and Faircrest Dr<br/>Schedule: 2nd and 4th Thursday nights.<br/>Studying: James w/ Redeemer Study Guide<br/>Status: Full</p></div>"
             }
         },
         {
@@ -518,11 +519,9 @@
                 "marker-symbol": "circle",
                 "marker-color": "#dcbd67",
                 "title": "Deboer (Mixed)",
-                "description": "<div class='marker-custom-desc'><p>Location: Birkenhead Ct and Bryan St<br/>Schedule: First meeting 9.29.13<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=228' target='_blank'>Register for this Group</a></p></div>"
+                "description": "<div class='marker-custom-desc'><p>Location: Birkenhead Ct and Bryan St<br/>Schedule: Sundays.<br/>Studying: *The Meaning of Marriage* by Tim and Kathy Keller<br/>Status: Open<br/><a href='https://arenaweb.pcpc.org/default.aspx?page=3323&group=228' target='_blank'>Register for this Group</a></p></div>"
             }
         }
     ]
 }
-
-
-
+    
